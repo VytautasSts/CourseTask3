@@ -1,0 +1,14 @@
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\bin\Debug\net7.0\CourseTask3.Repository.deps.json
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\bin\Debug\net7.0\CourseTask3.Repository.runtimeconfig.json
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\bin\Debug\net7.0\CourseTask3.Repository.dll
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\bin\Debug\net7.0\CourseTask3.Repository.pdb
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\CourseTask3.Repository.csproj.AssemblyReference.cache
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\CourseTask3.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\CourseTask3.Repository.AssemblyInfoInputs.cache
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\CourseTask3.Repository.AssemblyInfo.cs
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\CourseTask3.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\CourseTask3.Repository.dll
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\refint\CourseTask3.Repository.dll
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\CourseTask3.Repository.pdb
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\CourseTask3.Repository.genruntimeconfig.cache
+C:\Users\vytas\source\repos\CodeAcademy\CourseTask3.Repository\obj\Debug\net7.0\ref\CourseTask3.Repository.dll
